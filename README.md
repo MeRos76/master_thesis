@@ -1,7 +1,6 @@
 ### **Remote sensing - classification of eelgrass**  
 <br>
-     
-  
+<br>   
 
 The repository contain the following files:
 
